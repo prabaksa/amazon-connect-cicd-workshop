@@ -2,7 +2,7 @@
     "env": "devops",
     "account": "268939733970",
     "region": "us-east-1",
-    "codestarArn": "arn:aws:codeconnections:us-east-1:268939733970:connection/7d37ec40-85ff-4db4-85bf-0437c572ba39 ",
+    "codestarArn": "arn:aws:codeconnections:us-east-1:268939733970:connection/7d37ec40-85ff-4db4-85bf-0437c572ba39",
     "repo": "amazon-connect-cicd-workshop",
     "owner": "prabaksa",
     "email": "prabaksa@amazon.com"
